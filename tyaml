@@ -18,6 +18,11 @@ function tyaml_parser
    }'
 }
 
+remove_value()
+{
+   awk -F : '{print $1}'
+}
+
 get_value()
 {
    local file=$1
