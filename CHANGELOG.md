@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+### Fixed
+
+### Changed
+
+### Removed
+
+## [0.1.0] - 2021-04-15
+
 ### Added 
 
 - This CHANGELOG file to hopefully serve as an evolving example of a 
@@ -18,5 +28,6 @@ standardized open source project CHANGELOG.
 
 ### Removed
 
-[unreleased]: https://github.com/TinyToolSH/tyaml/compare/main...HEAD
+[unreleased]: https://github.com/TinyToolSH/tyaml/compare/0.1.0...HEAD
+[0.1.0]: https://github.com/TinyToolSH/tyaml/releases/tag/0.1.0
 
