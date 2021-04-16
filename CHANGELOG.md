@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- Fixed sed error when trying to read a file with spaces in his filename.
+
 ### Changed
 
 ### Removed
